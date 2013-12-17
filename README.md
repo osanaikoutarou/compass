@@ -1,4 +1,0 @@
-compass
-=======
-
-normal compass
